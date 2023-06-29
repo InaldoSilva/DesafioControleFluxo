@@ -11,7 +11,6 @@ public class Contador {
         System.out.println("Digite o segundo número");
         int segundo = Integer.parseInt(terminal.nextLine());
 
-
         try {
 
             if (primeiro > segundo) {
